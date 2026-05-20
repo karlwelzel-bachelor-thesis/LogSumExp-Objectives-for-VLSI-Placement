@@ -2,7 +2,7 @@
 My bachelor thesis for the BSc in Mathematics at the University of Bonn.
 
 ## Original
-You can find the original PDF [here](20200722_Bachelor%20Thesis.pdf). Some PDF features are only usable after downloading the document.
+You can find the original PDF [here](20200722_Bachelor%20Thesis.pdf). Some PDF features are only usable after downloading the document. Note that there is an error in the statement and proof of Theorem 4.7. The details of the mistake and a proof for a weaker claim are given [here](20210122_Correction_Properties%20of%20WA.pdf).
 
 ## Compiling
 On Linux after the usual LaTeX setup (I used the TeX Live packages) clone this repository and run
